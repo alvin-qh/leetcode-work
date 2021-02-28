@@ -1,4 +1,5 @@
 jupyterlab
 jupyterlab_code_formatter
 jupyter_nbextensions_configurator
+isort
 autopep8
