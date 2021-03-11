@@ -198,6 +198,7 @@ $ jupyter serverextension enable --py jupyterlab_code_formatter
 ### [L221 ~ L230](./L221~L230.ipynb)
 
 224. 基本计算器 **困难**
+227. 基本计算器 II **中等**
 
 ### [L301 ~ L310](./L301~L310.ipynb)
 
