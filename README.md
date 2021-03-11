@@ -194,6 +194,7 @@ $ jupyter serverextension enable --py jupyterlab_code_formatter
 14. 最长公共前缀 **简单**
 15. 三数之和 **中等**
 16. 最接近的三数之和 **中等**
+17. 电话号码的字母组合（回溯法） **中等**
 
 ### [L221 ~ L230](./L221~L230.ipynb)
 
