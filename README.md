@@ -188,7 +188,7 @@ $ jupyter serverextension enable --py jupyterlab_code_formatter
 
 ### [L11 ~ L20](./L11~L20.ipynb)
 
-11. 盛最多水的容器 **中等**
+11. 盛最多水的容器（双指针法） **中等**
 12. 整数转罗马数字 **中等**
 13. 罗马数字转整数 **简单**
 14. 最长公共前缀 **简单**
