@@ -171,7 +171,7 @@ $ jupyter serverextension enable --py jupyterlab_code_formatter
   $ deactivate
   ```
 
-## 2. Menu
+## 3. Menu
 
 ### [L1 ~ L10](./L01~L10.ipynb)
 
