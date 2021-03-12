@@ -205,6 +205,10 @@ $ jupyter serverextension enable --py jupyterlab_code_formatter
 
 303. 区域和检索 - 数组不可变 **简单**
 
+### [L331 ~ L340](./L331~L340.ipynb)
+
+331. 验证二叉树的前序序列化 **中等**
+
 ### [L391 ~ L400](./L391~L400.ipynb)
 
 395. 至少有 K 个重复字符的最长子串 **中等**
