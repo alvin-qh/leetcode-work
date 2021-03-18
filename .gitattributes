@@ -1,0 +1,15 @@
+* text  eol=lf
+*.bat   text eol=crlf
+*.cmd   text eol=crlf
+
+*.jpg   binary
+*.png   binary
+*.gif   binary
+
+*.eot   binary
+*.ttf   binary
+*.woff  binary
+*.otf   binary
+*.zip   binary
+
+/**/*.html linguist-vendored
