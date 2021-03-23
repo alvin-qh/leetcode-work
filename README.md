@@ -200,6 +200,10 @@ $ jupyter serverextension enable --py jupyterlab_code_formatter
 
 59. 螺旋矩阵 II **中等**
 
+### [L91 ~ L100](./L0091~L0100.ipynb)
+
+92. 反转链表 II **中等**
+
 ### [L221 ~ L230](./L0221~L0230.ipynb)
 
 224. 基本计算器 **困难**
@@ -212,6 +216,10 @@ $ jupyter serverextension enable --py jupyterlab_code_formatter
 ### [L331 ~ L340](./L0331~L0340.ipynb)
 
 331. 验证二叉树的前序序列化 **中等**
+
+### [L341 ~ L350](./L0341~L0350.ipynb)
+
+341. 扁平化嵌套列表迭代器 **中等**
 
 ### [L391 ~ L400](./L0391~L0400.ipynb)
 
