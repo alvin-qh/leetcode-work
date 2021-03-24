@@ -219,7 +219,7 @@ $ jupyter serverextension enable --py jupyterlab_code_formatter
 
 ### [L341 ~ L350](./L0341~L0350.ipynb)
 
-341. 扁平化嵌套列表迭代器 **中等**
+341. 扁平化嵌套列表迭代器（栈的使用，深度优先遍历） **中等**
 
 ### [L391 ~ L400](./L0391~L0400.ipynb)
 
